@@ -40,7 +40,7 @@ const DashboardSidebar = () => {
       <SidebarContent>
         <SidebarGroup>
           <SidebarGroupLabel>
-            AI Compliance Co-Pilot
+            JurisGen
           </SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
