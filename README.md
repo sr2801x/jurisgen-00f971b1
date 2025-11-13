@@ -1,4 +1,4 @@
-# AI Compliance Co-Pilot
+# JurisGen
 
 A full-stack web application that helps startups, SMEs, and legal firms identify and manage all their legal and regulatory compliance requirements.
 

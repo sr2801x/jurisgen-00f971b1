@@ -11,7 +11,7 @@ const Landing = () => {
       <section className="relative overflow-hidden bg-gradient-hero py-20 px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl text-center">
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-6xl">
-            Your AI Compliance Assistant
+            JurisGen - Your AI Compliance Assistant
           </h1>
           <p className="mt-6 text-xl text-white/90 max-w-3xl mx-auto">
             Simplify legal compliance for startups, SMEs, and legal teams. Get personalized compliance
